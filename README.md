@@ -12,7 +12,8 @@ This tracker will help in identifying whether a triangle is an isosceles, equila
 NB: If the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle cannot be formed using those values.
 
 ## Setup/Installation Requirements
-You need to have a powerfull machine
+get images for tracker ready
+need to use html css javascipt togetstarted
 
 ## BDD (Behaviour Driven Development)
 
