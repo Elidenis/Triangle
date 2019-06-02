@@ -9,7 +9,7 @@ This tracker will help in identifying whether a triangle is an isosceles, equila
 - An equilateral triangle must have all it's sides equal.
 - An isosceles triangle has two of its sides exactly equal.
 - As for an scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
-NB: If the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle cannot be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
+NB: If the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle cannot be formed using those values.
 
 ## Setup/Installation Requirements
 You need to have a powerfull machine
