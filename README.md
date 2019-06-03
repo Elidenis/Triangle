@@ -1,5 +1,5 @@
 # Triangle
-#### This is an App which tracks Triangles 
+#### This is tracker which tracks Triangles 
 
 #### By: Elidenis Njenga
 
